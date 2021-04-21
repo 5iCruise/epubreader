@@ -1,10 +1,6 @@
 🚧 **Under Construction** 🚧
 
-![LastCommit](https://img.shields.io/github/last-commit/5icruise/epubreader?label=Last%20Upadte&style=flat-square)    
-
-![Nodejs Version](https://img.shields.io/node/v/package?label=Node.JS%20Verion&style=flat-square)    
-
-![Licence](https://img.shields.io/github/license/5icruise/epubreader?label=Licence&style=flat-square)    
+![Tag](https://img.shields.io/github/v/tag/5icruise/epubreader?label=Tag&style=flat-square)    ![LastCommit](https://img.shields.io/github/last-commit/5icruise/epubreader?label=Last%20Upadte&style=flat-square)    ![Nodejs Version](https://img.shields.io/node/v/package?label=Node.JS%20Verion&style=flat-square)    ![Licence](https://img.shields.io/github/license/5icruise/epubreader?label=Licence&style=flat-square)    
 
 # EpubReader by Node.js & AngularCLI
 
