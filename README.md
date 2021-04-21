@@ -2,7 +2,7 @@
 
 ![Tag](https://img.shields.io/github/v/tag/5icruise/epubreader?label=Tag&style=flat-square)    ![LastCommit](https://img.shields.io/github/last-commit/5icruise/epubreader?label=Last%20Upadte&style=flat-square)    ![Nodejs Version](https://img.shields.io/node/v/package?label=Node.JS%20Verion&style=flat-square)    ![Licence](https://img.shields.io/github/license/5icruise/epubreader?label=Licence&style=flat-square)    
 
-# EpubReader by Node.js & AngularCLI
+# EpubReader powered by Node.js & AngularCLI
 
 `version: 0.1.0`  
 · **Project based on** [epub.js](https://github.com/futurepress/epub.js)   
@@ -81,6 +81,7 @@ Then visit `https://darkwarrior2025.xyz/epubreader/`
 ## ToDoList
 
 - [ ] 改进 *书签、文摘* 功能;  
+- [ ] 创建 **Docker Image**;  
 - [ ] 创建 **Electron** 项目 (本地化/离线);  
 - [ ] 部署轻量化PWA, 实现部分资料的在线存储; 
 
