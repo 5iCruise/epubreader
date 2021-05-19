@@ -80,7 +80,8 @@ Then visit `https://darkwarrior2025.xyz/epubreader/`
 
 ## ToDoList
 
-- [ ] 改进 *书签、文摘* 功能;  
+- [ ] 在 [vecel.app][https://vecel.com/] 部署应用;  
+- [ ] 改进 *书签、文摘* 功能,实现 *本地化* 存储;  
 - [ ] 创建 **Docker Image**;  
 - [ ] 创建 **Electron** 项目 (本地化/离线);  
 - [ ] 部署轻量化PWA, 实现部分资料的在线存储; 
